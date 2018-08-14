@@ -20,8 +20,8 @@ public class java_05_07 {
         int[] array3=new int[12];
         int j=0;
         for(int i=0; i<array3.length; i++){
-            if(i<=5){cd ..
-                
+            if(i<=5){
+
                 array3[i]=array1[i];}
             if(i>=6){
                 array3[i]=array2[j];
