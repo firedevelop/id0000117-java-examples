@@ -1,6 +1,6 @@
+// http://rextester.com/HGIU7686
 package com.company;
-
-public class java_05_07_A {
+public class java_05_07_IMPORTANTE_Array_sorting_without_using_sort_method {
 
         public static void main(String args[])
         {
@@ -8,7 +8,7 @@ public class java_05_07_A {
             sortingArray(a);
         }
         private static void sortingArray(int []a){
-Ω            for(int i=0;i<a.length-1;i++){
+            for(int i=0;i<a.length-1;i++){
                 for(int j=0;j<a.length-1;j++){
                     if(a[j]>a[j+1]){
                         int temp=a[j+1];
@@ -23,5 +23,3 @@ public class java_05_07_A {
 
         }
     }
-
-
