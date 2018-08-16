@@ -1,6 +1,6 @@
 // http://rextester.com/HGIU7686
 package com.company;
-public class java_05_07_IMPORTANTE_Array_sorting_without_using_sort_method {
+public class java_05_08_IMPORTANT_Array_sorting_without_using_sort_method {
 
         public static void main(String args[])
         {

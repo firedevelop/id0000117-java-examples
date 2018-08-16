@@ -2,7 +2,7 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class java_05_07_C_IMPORTANT_Array_without_repeated_numbers {
+public class java_05_08_IMPORTANT_Array_without_repeated_numbers {
     public static void main(String[]args){
         int[] a={2,17,3,9,3,1};
         int[] arrayMerge=sortingArray(a);

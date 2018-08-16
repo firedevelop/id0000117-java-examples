@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class java_05_07_D_Example_ArrayList {
+public class java_05_08_Example_ArrayList {
     public static void main(String[] args)
             throws IOException
     {
