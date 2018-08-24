@@ -104,6 +104,7 @@ public class java_05_11 {
 
             }
 
+
         }
         System.out.println("\n\nRow 0: " + totalArrayRow0);
         System.out.println("Row 1: " + totalArrayRow1);
@@ -114,8 +115,19 @@ public class java_05_11 {
         System.out.println("Column 2: " + totalArrayColumn2);
         System.out.println("Column 3: " + totalArrayColumn3);
 
-        if(totalArrayRow0 == totalArrayColumn0 == totalArrayColumn1){
-            System.out.println("THE ARRAY IS MAGIC!");
+                            if(totalArrayRow0 == totalArrayRow0 &&
+                              totalArrayRow0 == totalArrayRow1 &&
+                              totalArrayRow0 == totalArrayRow2 &&
+                              totalArrayRow0 == totalArrayRow3 &&
+                                totalArrayRow0 == totalArrayColumn0 &&
+                                totalArrayRow0 == totalArrayColumn1 &&
+                                totalArrayRow0 == totalArrayColumn2 &&
+                                totalArrayRow0 == totalArrayColumn3){
+            System.out.println("THE ARRAY IS MAGI2!");
+
+        }else
+        {
+            System.out.println("THE ARRAY IS NOT MAGIC :(");
         }
 
 
