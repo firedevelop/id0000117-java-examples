@@ -1,10 +1,10 @@
 package com.company;
-        import java.util.ArrayList;
-        import java.util.Collection;
-        import java.util.Collections;
-        import java.util.concurrent.ThreadLocalRandom;
 
-public class java_05_15 {
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.concurrent.ThreadLocalRandom;
+
+public class java_05_05_01 {
     public static void main(String[]args){
         ArrayList<Integer> matrix=new ArrayList<Integer>();
         int size = ThreadLocalRandom.current().nextInt(1, 10+1);
