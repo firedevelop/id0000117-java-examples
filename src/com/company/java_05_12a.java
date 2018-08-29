@@ -1,9 +1,8 @@
 package com.company;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
-public class java_05_12 {
+public class java_05_12a {
     public static void main(String[] args){
         int[][]matrix = new int[5][5];
         for(int n=0; n<matrix.length;n++){
