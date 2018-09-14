@@ -37,6 +37,6 @@ valueOf(char, 0,3)
 getChars
          System.out.println("hi");
   */
-        System.out.println(2661);
+        System.out.println("hi fire");
     }
 }
