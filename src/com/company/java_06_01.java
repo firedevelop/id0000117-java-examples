@@ -1,24 +1,42 @@
-package com.company;
-
-import java.util.ArrayList;
-import java.util.Scanner;
+public class java_06_01 {
+    public static void main(String[] args){
 /*
+isDigit
+isLetter
+isLetterOrDigit
+isLowerCase
+isUpperCase
+isSpaceChar
+isWhiteSpace
+toLowerCase
+toUpperCase
+toString
+forDigit
 valueOf
 equals
 equalsIgnoreCase
 regionMatches
-compareTo
-comparteToIgnoreCase
-concat
 substring
 trim
-*/
-public class java_06_01 {
-    public static void main(String[]args){
-       char a= 2000;
-        String text = "hola ";
-
-        System.out.println(String.valueOf(a));
+compareTo
+ToIgnoreCase
+concat
+charAt
+length
+indexOf
+lastIndexOf
+isEmpty
+contains
+startsWith
+endsWith
+toLowerCase
+toUpperCase
+replace
+toCharArray
+valueOf(char, 0,3)
+getChars
+         System.out.println("hi");
+  */
+        System.out.println(2661);
     }
 }
-
