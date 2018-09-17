@@ -3,40 +3,42 @@ package com.company;
 public class java_06_01_IMPORTANT_List_all_character_methods {
     public static void main(String[] args){
 /*
+        charAt
+        compareTo
+        concat
+        contains
+        endsWith
+        equals
+        equalsIgnoreCase
+        forDigit
+
+        getChars
+        indexOf
         isDigit
+        isEmpty
         isLetter
         isLetterOrDigit
         isLowerCase
-        isUpperCase
         isSpaceChar
+        isUpperCase
         isWhiteSpace
-        toLowerCase
-        toUpperCase
-        toString
 
-        valueOf
-        equals
-        equalsIgnoreCase
-        regionMatches
-        compareTo
-        charAt
-        substring
-        trim
-        length
-        indexOf
         lastIndexOf
-        isEmpty
-        startsWith
-        endsWith
+        length
+        regionMatches
         replace
-
-        toIgnoreCase
-        concat
-        contains
+        startsWith
+        substring
         toCharArray
+        toIgnoreCase
+        toLowerCase
+        toString
+        toUpperCase
+        trim
+        valueOf
         valueOf(char, 0,3)
-        getChars
-        forDigit
+
+
   */
     }
 }
