@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d91b0fa7-4918-4805-ab67-a400deda2234" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_forDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/id0000117-java-examples/com/company/delete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/id0000117-java-examples/com/company/delete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/id0000117-java-examples/com/company/java_06_01_IMPORTANT_List_all_character_methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/id0000117-java-examples/com/company/java_06_01_IMPORTANT_List_all_character_methods.class" afterDir="false" />
+    <list default="true" id="d91b0fa7-4918-4805-ab67-a400deda2234" name="Default" comment=".">
       <change beforePath="$PROJECT_DIR$/src/com/company/delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/delete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_List_all_character_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_List_all_character_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_forDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_forDigit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,25 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="delete.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="delete.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/delete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="java_06_01_IMPORTANT_forDigit.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_forDigit.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="java_06_01_IMPORTANT_List_all_character_methods.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_List_all_character_methods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="228">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -51,8 +33,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_List_all_character_methods.java" />
-        <option value="$PROJECT_DIR$/src/com/company/delete.java" />
         <option value="$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_forDigit.java" />
+        <option value="$PROJECT_DIR$/src/com/company/delete.java" />
       </list>
     </option>
   </component>
@@ -183,6 +165,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -192,12 +175,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" x="-1280" y="501" width="1280" height="299" id="Run" order="2" type="FLOATING" visible="true" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" x="-1280" y="501" width="1280" height="299" id="Run" order="2" type="FLOATING" visible="true" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -221,6 +204,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_forDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_List_all_character_methods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -230,13 +220,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/delete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="228">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/java_06_01_IMPORTANT_forDigit.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

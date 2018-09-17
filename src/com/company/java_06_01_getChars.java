@@ -1,5 +1,5 @@
 package com.company;
-public class delete {
+public class java_06_01_getChars {
     public static void main(String[]args){
         String s1 = "buda";
         char[] c1 ={'a','b','c'};
