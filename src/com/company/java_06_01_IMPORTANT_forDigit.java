@@ -1,8 +1,6 @@
 package com.company;
 
-import java.sql.SQLOutput;
-
-public class delete {
+public class java_06_01_IMPORTANT_forDigit {
     public static void main(String[]args){
         for(int i=0; i<20; i++) {
             int num = Character.forDigit(i, 16);

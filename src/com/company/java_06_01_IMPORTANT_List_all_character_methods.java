@@ -5,7 +5,7 @@ public class java_06_01_IMPORTANT_List_all_character_methods {
 /*
         charAt
         compareTo
-        concat
+        concat<
         contains
         endsWith
         equals
@@ -13,7 +13,7 @@ public class java_06_01_IMPORTANT_List_all_character_methods {
         forDigit
 
         getChars
-        indexOf
+        indexOf 
         isDigit
         isEmpty
         isLetter
