@@ -13,60 +13,13 @@ public class java_06_01 {
         System.out.println(s2);
         System.out.println("s1.length = " + s1.length());
         if (s1.length() > s2.length()) {
-            System.out.println("The low number is: " + s2);
+            System.out.println("The low word is: " + s2);
         }
         if (s1.length() < s2.length()) {
-            System.out.println("The low number is:" + s1);
+            System.out.println("The low word is:" + s1);
         } else {
-            System.out.println("the numbers are equals");
+            System.out.println("the words are equals");
 
         }
     }
 }
-
-
-
-
-/*
-        ArrayList<Integer> b=new ArrayList<Integer>();
-
-        String Str1 = new String("Welcome to Tutorialspoint.com");
-        String[] Str2 = new String[7];
-            Str1.getChars(2, 9, Str2, 0);
-            System.out.println(Str2 );
-
-isDigit
-isLetter
-isLetterOrDigit
-isLowerCase
-isUpperCase
-isSpaceChar
-isWhiteSpace
-toLowerCase
-toUpperCase
-toString
-
-valueOf
-equals
-equalsIgnoreCase
-regionMatches
-compareTo
-charAt
-substring
-trim
-length
-indexOf
-lastIndexOf
-isEmpty
-startsWith
-endsWith
-replace
-
-toIgnoreCase
-concat
-contains
-toCharArray
-valueOf(char, 0,3)
-getChars
-forDigit
-  */
